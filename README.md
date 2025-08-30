@@ -1,4 +1,4 @@
-# 🌐 LLM Agent [Bridge of Knowledge](https://tds-bonus-project-llm-agent.vercel.app/) — Browser-Based Multi-Tool Reasoning
+# 🌐 LLM Agent [Bridge of Knowledge](https://llm-agent-poc-gilt.vercel.app/) — Browser-Based Multi-Tool Reasoning
 
 This project is a **proof-of-concept (POC)** for building a **browser-based LLM agent** that can combine **natural language reasoning** with **external tools** like search engines, pipelined APIs, and even **live JavaScript execution**.  
 
@@ -73,7 +73,7 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/23f1000805/tds-bonus-project-LLM-Agent.git
+   git clone https://github.com/BhavanaAgrawal73/llm-agent-poc.git
    cd tds-bonus-project-LLM-Agent
    ```
 
@@ -163,4 +163,5 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 * Expand tools: file parsing, charting, SQL, etc.
 
 ---
+
 
